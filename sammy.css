@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.one{
+    background-image: url(background.jpg);
+    height: 450px;
+    text-align: center;
+    padding-top: 50px;
+}
+.pic1{
+    height: 90px;
+    border-radius: 60px;
+    border: 8px gold solid;
+   margin-top: 40px;
+}
+.naanma{
+    font-size: 65px;
+}
+.pic2{
+    height: 500px;
+    float: left;
+    padding-right: 70px;
+    padding-left: 70px;
+}
+.two{
+  padding-top: 60px;
+}
+footer{
+    text-align: center;
+    background-color: rgb(248, 185, 24);
+    padding: 30px;
+    color: rgb(255, 255, 255);
+  margin-top: 90px;
+}
+.space{
+    line-height: 20px;
+    font-size: 16px;
+}
